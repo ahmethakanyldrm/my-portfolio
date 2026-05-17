@@ -1,8 +1,6 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 
-const projects = [
- 
-];
+const projects = [];
 
 export const ProjectsSection = () => {
   return (
